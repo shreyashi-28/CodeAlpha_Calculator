@@ -18,7 +18,7 @@ This is a simple web-based **Calculator App** built as part of the **CodeAlpha F
 
 ## Screenshot
 
-![Calculator Screenshot](calculator.jpg)
+![Calculator Screenshot](calculator.JPG)
 
 ## Project Status
 
